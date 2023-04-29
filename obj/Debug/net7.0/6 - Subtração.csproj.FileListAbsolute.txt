@@ -1,0 +1,15 @@
+C:\Users\plaud\Desktop\6 - Subtração\bin\Debug\net7.0\6 - Subtração.exe
+C:\Users\plaud\Desktop\6 - Subtração\bin\Debug\net7.0\6 - Subtração.deps.json
+C:\Users\plaud\Desktop\6 - Subtração\bin\Debug\net7.0\6 - Subtração.runtimeconfig.json
+C:\Users\plaud\Desktop\6 - Subtração\bin\Debug\net7.0\6 - Subtração.dll
+C:\Users\plaud\Desktop\6 - Subtração\bin\Debug\net7.0\6 - Subtração.pdb
+C:\Users\plaud\Desktop\6 - Subtração\obj\Debug\net7.0\6 - Subtração.csproj.AssemblyReference.cache
+C:\Users\plaud\Desktop\6 - Subtração\obj\Debug\net7.0\6 - Subtração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plaud\Desktop\6 - Subtração\obj\Debug\net7.0\6 - Subtração.AssemblyInfoInputs.cache
+C:\Users\plaud\Desktop\6 - Subtração\obj\Debug\net7.0\6 - Subtração.AssemblyInfo.cs
+C:\Users\plaud\Desktop\6 - Subtração\obj\Debug\net7.0\6 - Subtração.csproj.CoreCompileInputs.cache
+C:\Users\plaud\Desktop\6 - Subtração\obj\Debug\net7.0\6 - Subtração.dll
+C:\Users\plaud\Desktop\6 - Subtração\obj\Debug\net7.0\refint\6 - Subtração.dll
+C:\Users\plaud\Desktop\6 - Subtração\obj\Debug\net7.0\6 - Subtração.pdb
+C:\Users\plaud\Desktop\6 - Subtração\obj\Debug\net7.0\6 - Subtração.genruntimeconfig.cache
+C:\Users\plaud\Desktop\6 - Subtração\obj\Debug\net7.0\ref\6 - Subtração.dll
